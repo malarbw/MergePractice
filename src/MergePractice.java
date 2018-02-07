@@ -7,6 +7,8 @@ public class MergePractice {
 		System.out.println("OOOOO");
 		System.out.println("Hello World");
 		System.out.println("My name is moe.");
+		
+		System.out.println("This is Kassie's addition to the file.");
 	}
 
 }
